@@ -1,16 +1,23 @@
 ### Olá eu sou Wesllen Matias 👋
 
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/wesllenmatias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesllenmatias&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesllenmatias&layout=compact&langs_count=7&theme=chartreuse-dark"/> -->
 </div>
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-</div>
+
+<div style="display: inline_block">
   
+  <img align="center" alt="WMM-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="WMM-bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img align="center" alt="WMM-azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  <img align="center" alt="WMM-aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+  <img align="center" alt="WMM-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+
+
+</div>
+ 
 <!--
 **WesllenMatias/WesllenMatias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
