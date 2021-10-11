@@ -1,6 +1,6 @@
 ### Olá eu sou Wesllen Matias 👋
 
-- 🔭 Hoje trabalho com Infraestrutura e Desenvolvimento.
+- 🔭 Hoje trabalho com Infraestrutura e Desenvolvimento ( Entregando soluções ou as Desenvolvendo ).
 - 
 
 <div align="left">
@@ -13,7 +13,7 @@
 🚀 Skills  
 
 <div style="display: inline_block">
-  
+  <img align="center" alt="WMM-zabbix" height="30" width="40" src="https://symbols.getvecta.com/stencil_104/1_zabbix-icon.10de30d870.svg" />
   <img align="center" alt="WMM-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="WMM-bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img align="center" alt="WMM-azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
