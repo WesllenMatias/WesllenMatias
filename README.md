@@ -1,14 +1,19 @@
 ### Olá eu sou Wesllen Matias 👋
+##
 
 - 🔭 Hoje trabalho com Infraestrutura e Desenvolvimento ( Entregando soluções ou as Desenvolvendo ).
-- 
+- :bar_chart: Automação e Monitoramento são a chave do sucesso.
+- :arrows_clockwise: Em busca constante por conhecimento e compartilhar o que conhece esse é o meu mantra.
+
 
 <div align="left">
   <a href="https://github.com/wesllenmatias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesllenmatias&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/></a>
     
- <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesllenmatias&layout=compact&langs_count=7&theme=chartreuse-dark"/> -->
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesllenmatias&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
+
+##
 
 🚀 Skills  
 
@@ -27,6 +32,7 @@
   <img align="center" alt="WMM-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="WMM-django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
   <img align="center" alt="WMM-ansible" height="30" width="40" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" />
+  <img align="center" alt="WMM-grafana" height="30" width="40" src="https://symbols.getvecta.com/stencil_82/58_grafana-icon.e4a9200593.svg" />
 
 
 
