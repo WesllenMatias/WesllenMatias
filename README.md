@@ -34,9 +34,6 @@
   <img align="center" alt="WMM-ansible" height="30" width="40" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" />
   <img align="center" alt="WMM-grafana" height="30" width="40" src="https://symbols.getvecta.com/stencil_82/58_grafana-icon.e4a9200593.svg" />
 
-
-
-
 </div>
  
 <!--
