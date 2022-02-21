@@ -33,7 +33,7 @@
   <img align="center" alt="WMM-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="WMM-django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
   <img align="center" alt="WMM-ansible" height="30" width="40" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" />
-  <img align="center" alt="WMM-grafana" height="30" width="40" src="https://grafana.com/static/img/about/grafana_logo_swirl_fullcolor.jpg" />
+  <img align="center" alt="WMM-grafana" height="30" width="40" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" />
 
 </div>
  
