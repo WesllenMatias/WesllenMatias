@@ -19,7 +19,7 @@
 
 
 <div style="display: inline_block">
-  <img align="center" alt="WMM-zabbix" height="30" width="40" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" />
+  <img align="center" alt="WMM-zabbix" height="30" width="30" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" />
   <img align="center" alt="WMM-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="WMM-bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img align="center" alt="WMM-azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
@@ -34,7 +34,7 @@
   <img align="center" alt="WMM-django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
   <img align="center" alt="WMM-ansible" height="30" width="40" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" />
   <img align="center" alt="WMM-grafana" height="30" width="40" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" />
-  <img align="center" alt="WMM-oracle" height="30" width="40" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" />
+  <img align="center" alt="WMM-oracle" height="30" width="30" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" />
 
 </div>
  
